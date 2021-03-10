@@ -4,9 +4,8 @@ This is a simple readme file
 
 ## HEADING2
 
-this is bound to cause trouble
+Just something here
 
-this is bound to cause evenmore trouble
+UPdates in stage
 
-
-hope this doesn't cause a problem
+More updates in working directory
